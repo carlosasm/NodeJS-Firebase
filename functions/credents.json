@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mooc-sstartsystems",
+  "private_key_id": "1eb09b062a117e4fd77445ac22fe6959c6422a01",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrjuYVbZ2idZpb\nr+wLRWANnR2H3msxfcF//MvRHy0ZS8mCPgm72EjnFsvQI/rrihPIFtiaT8QawIop\nSWUZf+lsS02s3hW7+v9DH8VV/4dm9QEW1e6uGcluTvkY9zyilCEPmF8hvFkmL8Sa\n0rlp9PbGvj6hhZXUVJgj0Ux1XA34DCupkSY8Zh1hgqJrwQxgz4OeeIzakLj1LWRF\nNuM0MBPHxT+QltP5FbF5SWmmXybcRxMqdZIf+Z4+bSB3H98+eo07ux9hidTXMJpj\nFra2vsfJc4s2u11yjXnVGqzcQsMrHn4uhsTXpgpHtXhzLAn2Gn5VsHcnLEioXWxF\nI8mqaLZDAgMBAAECggEAO2LF5pkBPiFzg1WMYgJr04qVlFi7xm//sWwyqXsfQ2hm\nor0S5YFjCwtrFeu+ihZL7rFp3VDLU29e5BfR9Ve/14rhontmDqI+BmBTEQfZORyK\nefsoGgA3KAYSWEANL0ITh7B5DdaDDaLvbaCQKktvuTBVwdfaG5wE5jEnRGDPPRN3\n7DNn/RF5CWKXiqW/Juo6fmoF/xY5HyX502upWs+wRTW+u8L1oVUYjAPyAKu5+DSP\nkqTwtnDZ07kOfa8V7gwqBdaFrbm42dmywLrx7DafjwSG5RKQ82Db7g3ujDANyKhU\no1G7UhdjUHFr9MQE9hkCLyt1Km29vgAzRzgmMClvEQKBgQDiZZJeeXUV/Lzo1wXA\nSH3TVAOzVjw8YSTEqfOd/eRDQSsLm9pNFxrcQLby7VqcNvvzwOfLhxH92Lb/s2EZ\nJUae96Ye3EV0cUvpLgsMthjS78kPlbgEoYorg9Me4lmxXflPc4QmFJs1FjPhze1U\nF0PXyFI6FuBIvObExiOn+AzU9QKBgQDB/afAjn9Nde3Rzlu4SILIaOsyYYx6Wdxs\nIinTjKIg85Z6zjy5v/uUO3pcISdy1g8dQTHWRGOMwX1Rxq8XvYEGjNaar7+qFzBn\ng7889WzhzlugvKTCk0n0ZHEwBSpibquQ9GYkZRRi3F4gycMJFLvKUnHNU23rP99F\nCL7YoyybVwKBgH+lkzRPONPvzzdc3PJALSl06i04RvgoMYns5N3Eo+nDmZiPBDOI\n/m0G09/+MaN4YPBbaJXZjyxX/z4Gjo2V9c51hSVLPqHbq1hKzJIbLb3o0q1F1h5O\nUlAcoHF+X+HgQUwprm2mGqiA3znGWLSb9XV5jdsQwN5iG58AtGPlOJ7tAoGAJzMV\ngdCJouJwoxO67vsgClVBKZYSp+qeou8oWooxfM0cHEaueK51rNdz+0fry8W7miLB\nalW5dAjpROwMF5UAjI1LFEjtRvaWnmQ98Zh6Xwqu80ULWhIfQJZHVPfGP8uzOYBZ\nX4NZYjy7fI6orZ4V8GVGf8IbFQ18FVwWDHq0mdMCgYA9OOfT+sqSOLGl+/93vepH\nX57bmVCM5B2ZCLiEZoDGh/+V8kDSB90SRBbpdTB9c44gds8g6ddzHCeSRPZqc3Ji\nlm82om/wV7fOszwOhpcuuaz545vjayX81I6z9ANDevUlBgFgbdz+V789gyXNUv6t\nch8rBB3IrkKENzsWv/T/+g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-dihom@mooc-sstartsystems.iam.gserviceaccount.com",
+  "client_id": "115233212303844966337",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-dihom%40mooc-sstartsystems.iam.gserviceaccount.com"
+}
