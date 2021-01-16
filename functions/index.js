@@ -16,5 +16,8 @@ app.use(cors({ origin: true }));
 app.get('/hello-world', (req, res) => {
   return res.status(200).send('Hello World! MOCS');
 });
+
 app.use(require('./routes/prods'))
+
+
 exports.app = functions.https.onRequest(app);
